@@ -10,3 +10,9 @@ The FastText model-structure.ipynb contains the code of the FastText model regar
 The Clustering.ipynb contains the code regarding the clustering procedure using document, project obejective and claim embeddings.
 
 Also, we uploaded a report.docx.
+
+Team Members: 
+
+Ioanna Kanellou 
+@GeorgeMavridis
+@EPapantoni
