@@ -3,7 +3,7 @@ The scope of this assignment was to initially to manually assess and mark the st
 
 The baseline model.ipynb contains the code of  basic model which created for comparison purposes with FastText approach.
 
-The FastText model.ipynb contains the code of the FastText model regarding the arguement labels.
+The FastText model.ipynb contains the code of the FastText model regarding the argument labels.
 
 The FastText model-structure.ipynb contains the code of the FastText model regarding the structure labels.
 
