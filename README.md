@@ -13,6 +13,8 @@ Also, we uploaded a report.docx.
 
 Team Members: 
 
-Ioanna Kanellou 
-@GeorgeMavridis
-@EPapantoni
+[IKanellou](https://github.com/Ikanellou)
+
+[GeorgeMavridis](https://github.com/GeorgeMavridis)
+
+[EPapantoni](https://github.com/EPapantoni)
